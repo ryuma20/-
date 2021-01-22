@@ -1,12 +1,5 @@
 h1{
-   i=0;
-   for(i<200;){
-      font-size:"+i+"px;
-      i++;
-      if(i=199){font-size:150px;
-         break;}
-   }
-  
+   font-size:150px;   
    text-align:center;
    margin-top:100px;
    color:red;
