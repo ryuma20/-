@@ -1,7 +1,9 @@
 h1{
-   margin-top:10px;
-   font-size:60px;
+   for(i=1;i<100;i++;){
+      font-size:"+i+"px;
+   }
    text-align:center;
+   margin-top:10px;
    color:red;
 }
 body{
