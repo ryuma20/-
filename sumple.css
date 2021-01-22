@@ -1,4 +1,5 @@
 h1{
+   margin-top:10px;
    font-size:60px;
    text-align:center;
    color:red;
@@ -6,5 +7,5 @@ h1{
 body{
     margin:0;
     padding:0;
-    background:#ffe4e1;
+    background:#fffaf0;
 }
