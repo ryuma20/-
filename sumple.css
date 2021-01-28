@@ -3,7 +3,7 @@ h1{
    text-align:center;
    margin-top:100px;
    color:#FF9900;
-   text-shadow:2px 3px 4px #808080
+   text-shadow:4px 5px 6px #808080
 }
 
 body{
@@ -12,5 +12,5 @@ body{
 p{
    font-size:80;
    text-align:center;
-   color:white;
+   color:aqua;
   
