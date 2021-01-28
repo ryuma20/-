@@ -3,6 +3,7 @@ h1{
    text-align:center;
    margin-top:100px;
    color:aqua;
+   text-shadow:1px 2px 3px #808080
 }
 
 body{
@@ -11,5 +12,5 @@ body{
 p{
    font-size:80;
    text-align:center;
-   background-color:aqua;
+   color:white;
   
