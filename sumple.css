@@ -13,3 +13,11 @@ p{
    background-image:url('B7658664-8512-48D2-AE31-D75E343BE3F0.gif');
 }
   
+p1{
+   font-size:80;
+   text-align:center;
+   color:aqua;
+   background-image:url('B7658664-8512-48D2-AE31-D75E343BE3F0.gif');
+   backdrop-filter:blur(6px);
+}
+   
