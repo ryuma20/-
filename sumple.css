@@ -4,20 +4,20 @@ h1{
    margin-top:100px;
    color:#FF9900;
    text-shadow:6px 7px 8px #808080
-   background-image:url('B7658664-8512-48D2-AE31-D75E343BE3F0.gif');
 }
 p{
    font-size:80;
    text-align:center;
    color:aqua;
-   background-image:url('B7658664-8512-48D2-AE31-D75E343BE3F0.gif');
 }
-  
+body{
+   background-image:url('B7658664-8512-48D2-AE31-D75E343BE3F0.gif');
+   backdrop-filter:blur(6px);
+}
 p1{
    font-size:80;
    text-align:center;
    color:aqua;
-   background-image:url('B7658664-8512-48D2-AE31-D75E343BE3F0.gif');
-   backdrop-filter:blur(6px);
+   
 }
    
