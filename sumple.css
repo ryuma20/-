@@ -14,6 +14,8 @@ p{
 body{
    background-image:url('B7658664-8512-48D2-AE31-D75E343BE3F0.gif');
    backdrop-filter:blur(120px);
+   text-shadow:6px 7px 8px #808080
+   color:black;
 }
 p1{
    font-size:80;
