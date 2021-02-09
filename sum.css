@@ -1,0 +1,15 @@
+
+h1{
+   font-size:150px;   
+   text-align:center;
+   margin-top:100px;
+   color:yellow;
+   text-shadow:6px 7px 8px #808080
+}
+
+body{
+   background-image:url('B7658664-8512-48D2-AE31-D75E343BE3F0.gif');
+   backdrop-filter:blur(120px);
+}
+
+
