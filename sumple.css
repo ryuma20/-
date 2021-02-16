@@ -9,7 +9,7 @@ p{
    font-size:70;
    text-align:left;
    color:black;
-   under{background:linear-gradient(transparent 0,yellow 0);}
+   border-bottom:solid 3px yellow;
    text-shadow:6px 7px 8px #808080
 }
 body{
