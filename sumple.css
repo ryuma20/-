@@ -1,14 +1,14 @@
 h1{
-   font-size:155px;   
+   font-size:160px;   
    text-align:center;
    margin-top:100px;
    color:#FF9900;
    text-shadow:6px 7px 8px #808080
 }
 p{
-   font-size:80;
-   text-align:center;
-   color:black;
+   font-size:60;
+   text-align:left;
+   color: yellow;
    text-shadow:6px 7px 8px #808080
 }
 body{
@@ -18,7 +18,7 @@ body{
    backdrop-filter:blur(120px);
 }
 div{
-   font-size:65;
+   font-size:60;
    text-align:left;
    text-shadow:7px 7px 8px #808080
    color:yellow;
