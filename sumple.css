@@ -6,9 +6,10 @@ h1{
    text-shadow:6px 7px 8px #808080
 }
 p{
-   font-size:60;
+   font-size:70;
    text-align:left;
-   color: yellow;
+   color:black;
+   under{background:linear-gradient(transparent 0,yellow 0);}
    text-shadow:6px 7px 8px #808080
 }
 body{
